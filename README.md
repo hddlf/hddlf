@@ -10,7 +10,7 @@
   </p>
   
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=140&lines=Hello+World!!" />    
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=150&lines=Hello+World!!" />    
   </h1>
   
   ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=hddlf&layout=compact&hide=html&theme=dark)
