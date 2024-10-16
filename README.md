@@ -14,15 +14,12 @@
   <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=140&lines=Hello+World!!" />    
   </h1>
-
-  ![stats](https://github-readme-stats.vercel.app/api?username=hddlf&theme=dark&show_icons=true)
-  
-  ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=hddlf&layout=compact&hide=html&theme=dark)
-  
-  ![contribution](https://github-readme-streak-stats.herokuapp.com/?user=hddlf&theme=highcontrast)
-
   
   <img src="https://media.tenor.com/JzbQQOsIPL0AAAAM/onepiece-ace.gif" />
+
+  ![stats](https://github-readme-stats.vercel.app/api?username=hddlf&theme=dark&show_icons=true)  ![contribution](https://github-readme-streak-stats.herokuapp.com/?user=hddlf&theme=highcontrast)
+  
+  ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=hddlf&layout=compact&hide=html&theme=dark)
 </div>
 
 
