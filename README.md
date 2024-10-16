@@ -4,8 +4,8 @@
   <img src="https://media.tenor.com/DgwnlOgC7jcAAAAM/twerk-cat-dae-cat.gif"/>
 
   <p>
-    - 👋 Hi, I’m hdd
-    - 👀 I’m interested in do something to change the world.
+    - 👋 Hi, I’m hdd</br>
+    - 👀 I’m interested in do something to change the world.</br>
     - 👻 I want to do something cool.  
   </p>
   
