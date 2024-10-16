@@ -16,7 +16,7 @@
   </h1>
   
   <img src="https://media.tenor.com/JzbQQOsIPL0AAAAM/onepiece-ace.gif" />
-  
+  <br/>
 
   ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=hddlf&layout=compact&hide=html&theme=dark)
   
