@@ -14,13 +14,13 @@
   </h1>
   
   ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=hddlf&layout=compact&hide=html&theme=dark)
-  <img src="https://media.tenor.com/JzbQQOsIPL0AAAAM/onepiece-ace.gif" />
+  <img src="https://media.tenor.com/JzbQQOsIPL0AAAAM/onepiece-ace.gif" height=115 />
   
   ![stats](https://github-readme-stats.vercel.app/api?username=hddlf&theme=dark&show_icons=true)
-  <img src="https://media.tenor.com/wP824bO6vtkAAAAM/brava.gif" />
+  <img src="https://media.tenor.com/wP824bO6vtkAAAAM/brava.gif" height=195 />
   
   ![contribution](https://github-readme-streak-stats.herokuapp.com/?user=hddlf&theme=highcontrast)
-  <img src="https://media.tenor.com/N3BcE4CzD6QAAAAM/ynuyasha-come.gif" />
+  <img src="https://media.tenor.com/N3BcE4CzD6QAAAAM/ynuyasha-come.gif" height=195 />
 </div>
 
 
