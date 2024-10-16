@@ -9,9 +9,9 @@
     - 👻 I want to do something cool.  
   </p>
   
-  <img src="https://media.tenor.com/JzbQQOsIPL0AAAAM/onepiece-ace.gif" />
-  
+  <img src="https://media.tenor.com/JzbQQOsIPL0AAAAM/onepiece-ace.gif" />  
   <img src="https://media.tenor.com/wP824bO6vtkAAAAM/brava.gif" />
+  <img src="https://media.tenor.com/N3BcE4CzD6QAAAAM/ynuyasha-come.gif" />
   
   <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=140&lines=Hello+World!!" />    
