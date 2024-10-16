@@ -11,6 +11,8 @@
   
   <img src="https://media.tenor.com/JzbQQOsIPL0AAAAM/onepiece-ace.gif" />
   
+  <img src="https://media.tenor.com/wP824bO6vtkAAAAM/brava.gif" />
+  
   <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=140&lines=Hello+World!!" />    
   </h1>
